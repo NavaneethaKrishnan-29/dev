@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-test-push-deploy:
+  build-test-push:
     runs-on: ubuntu-latest
 
     steps:
